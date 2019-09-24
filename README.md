@@ -16,3 +16,8 @@
 1. rn - delete file
 1. rn -rf delete adirectory
 
+## VI (visual editor)
+1. exit with :wq
+1. esc - command mode
+1. i - insert mode
+
